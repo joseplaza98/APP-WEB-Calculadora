@@ -1,0 +1,18 @@
+C:\Users\Unicomfacauca\source\repos\AppWEB_WSW\AppWEB_WSW\bin\AppWEB_WSW.dll.config
+C:\Users\Unicomfacauca\source\repos\AppWEB_WSW\AppWEB_WSW\bin\AppWEB_WSW.dll
+C:\Users\Unicomfacauca\source\repos\AppWEB_WSW\AppWEB_WSW\bin\AppWEB_WSW.pdb
+C:\Users\Unicomfacauca\source\repos\AppWEB_WSW\AppWEB_WSW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Unicomfacauca\source\repos\AppWEB_WSW\AppWEB_WSW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Unicomfacauca\source\repos\AppWEB_WSW\AppWEB_WSW\obj\Debug\AppWEB_WSW.csprojResolveAssemblyReference.cache
+C:\Users\Unicomfacauca\source\repos\AppWEB_WSW\AppWEB_WSW\obj\Debug\AppWEB_WSW.csproj.CoreCompileInputs.cache
+C:\Users\Unicomfacauca\source\repos\AppWEB_WSW\AppWEB_WSW\obj\Debug\AppWEB_WSW.dll
+C:\Users\Unicomfacauca\source\repos\AppWEB_WSW\AppWEB_WSW\obj\Debug\AppWEB_WSW.pdb
+C:\Users\Unicomfacauca\Desktop\proyecto\APP WEB\AppWEB_WSW\bin\AppWEB_WSW.dll.config
+C:\Users\Unicomfacauca\Desktop\proyecto\APP WEB\AppWEB_WSW\bin\AppWEB_WSW.dll
+C:\Users\Unicomfacauca\Desktop\proyecto\APP WEB\AppWEB_WSW\bin\AppWEB_WSW.pdb
+C:\Users\Unicomfacauca\Desktop\proyecto\APP WEB\AppWEB_WSW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Unicomfacauca\Desktop\proyecto\APP WEB\AppWEB_WSW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Unicomfacauca\Desktop\proyecto\APP WEB\AppWEB_WSW\obj\Debug\AppWEB_WSW.csprojResolveAssemblyReference.cache
+C:\Users\Unicomfacauca\Desktop\proyecto\APP WEB\AppWEB_WSW\obj\Debug\AppWEB_WSW.csproj.CoreCompileInputs.cache
+C:\Users\Unicomfacauca\Desktop\proyecto\APP WEB\AppWEB_WSW\obj\Debug\AppWEB_WSW.dll
+C:\Users\Unicomfacauca\Desktop\proyecto\APP WEB\AppWEB_WSW\obj\Debug\AppWEB_WSW.pdb
